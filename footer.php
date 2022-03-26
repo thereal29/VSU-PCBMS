@@ -2,7 +2,7 @@
     <?php if($_SESSION['login_view_folder'] == 'manager/'):?>
       <footer class="footer">
         <div class="foot_container">
-          <span class="text-muted">VSU Pasalubong Center Business Management System </span>
+          <span class="text-muted">VSU sadPasalubong Center Business Management System </span>
           <span class="year text-muted text-right">&nbsp;|&nbsp;&nbsp;&nbsp;&copy; <?php echo date("Y"); ?> </span>
         </div>
       </footer>
